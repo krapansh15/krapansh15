@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 👨‍💻 All of my projects are available at [My Github](https://github.com/ka3102srm)
+- 👨‍💻 All of my projects are available at [github/krapansh15](https://github.com/ka3102srm)
 
 - 📫 How to reach me **krapanshshrivastava@gmail.com**
 
