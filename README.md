@@ -3,11 +3,11 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
-- 👨‍💻 All of my projects are available at [https://github.com/ka3102srm](https://github.com/ka3102srm)
+- 👨‍💻 All of my projects are available at [My Github](https://github.com/ka3102srm)
 
 - 📫 How to reach me **krapanshshrivastava@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LhgZlmWMk32VViBXyOCBXqL0K9Vw0OvZ/view?usp=share_link](https://drive.google.com/file/d/1LhgZlmWMk32VViBXyOCBXqL0K9Vw0OvZ/view?usp=share_link)
+- 📄 Know about my experiences [Click Here](https://shorturl.at/TNz9X)
 
 - ⚡ Fun fact **The first computer bug was literally a bug—a moth found inside a Harvard Mark II computer in 1947.**
 
